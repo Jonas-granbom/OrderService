@@ -1,5 +1,6 @@
 package com.example.orderservice;
 
+import com.example.orderservice.repository.PizzaOrderRepository;
 import com.example.orderservice.entities.PizzaOrder;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;

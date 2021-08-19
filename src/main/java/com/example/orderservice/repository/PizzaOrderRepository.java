@@ -1,4 +1,4 @@
-package com.example.orderservice;
+package com.example.orderservice.repository;
 
 import com.example.orderservice.entities.PizzaOrder;
 import org.springframework.data.jpa.repository.JpaRepository;
